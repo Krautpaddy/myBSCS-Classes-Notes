@@ -1,6 +1,9 @@
 # BSCS Class Notes and Resources
 A repository to store notes on classes from the Bachelors of Science degree program I'm currently enrolled in.
 
+- For my Tips on studying, getting into reading, and more, [click here](TipsPage.md). 
+- For my Book recommendations page, [click here](BookRecs.md). (NOTE: This is still under construction)
+
 ## Purpose
 I decided to create my own repo of notes and resources for the BS in CS program I'm in after seeing the [current one](https://github.com/WGU-BSCS/bscs-classes) from the WGU BSCS group was empty and I didn't recognize a lot of the course numbers from my BSCS program on it. I've been an avid follower of the school subreddits and have followed the posts on many courses for the last few years, saving links to many for future reference. One day (as in, last week), I decided that I needed to start taking my studies far more seriously so I decided to learn GitHub and create repositories for notes on the classes I was taking. Eventually, after seeing the WGU BSCS's empty repo I decided I would create something similar to keep track of all of the links I'd been saving. And that's about it. 
 
@@ -14,11 +17,15 @@ Obviously trying to figure out what resources will work for every kind of learne
 <br />
 
 ## What's Coming Next
-Well, lots of clean up. There's bound to be lots of typos all over the place and I'd really like to make everything a little more uniform. On the advice of @todgru , I'm going to be updating everything from the very clunky HTML I was using to the far more accessible [GitHub Flavored Markdown](https://github.github.com/gfm/) while doing so. Hopefully it will make collaborating on here a lot easier.
+Hey everyone, it's been a while since the last update. I'm still working on updating all of the repo pages with new resources and writeups using [GitHub Flavored Markdown](https://github.github.com/gfm/). However, I've been a bit slower at this than I would've liked because I've been working on classes myself. I did make some additions you might enjoy. At the top I've added links to the new tips and book rec pages, as promised. While the book rec page continues to be updated, I hope my tips page proves helpful. I also haven't forgotten about the chatbot I promised, it is coming, just not immediately. 
 
-I'm also planning to add on an extra page for more general learning resources (like links to tools and documentation, some books and video courses to help bridge some of the gaps, etc). If you have any recommendations for that, check out the readme when I eventually post and slap it right [here](https://github.com/Krautpaddy/myBSCS-Classes-Notes).
 
-Anything else? Yeah, I'm working on a chatbot to give people recommendations as to what class they should take next. (I see that question asked a lot in the subreddit). I might be putting out a questionaire to get some data for that sometime soon, so look out for that in case you'd like to participate. I'll be making a seperate repo for the chatbot that you can download and stage in PandoraBots. And no, it's not my C951 project, it's just something I'm building to learn how things work. Like I said above, no PA projects are welcome in this repo so it doesn't get shut down!
+So what's like next-next for this repo? In this order:
+- I'm going to be finishing the updating on the existing pages first.
+- Then I'm going to finish adding the remaining links to the book rec page.
+- Then I'm going to add onto this main page the other IT programs with their course lists and link the courses that are covered in this course to it.
+- Then I'm going to probably spend a lot of time researching the other degree programs and then add their pages in one big update.
+- And the chatbot with course recommendations. Although for data I'm going to need some volunteers to fill out a survey.
 
 <br />
 
