@@ -51,7 +51,7 @@ Below is a list of the classes in the BSCS program. Everything that's linked has
  | [C170 Data Management - Applications](C170.md)<sup>[C]</sup> | [C963 American Politics and the US Constitution](C963.md) | [C100 Introduction to Humanities](C100.md) | [C482 Software I](C482.md) |
  | [C195 Software II - Advanced Java Concepts](C195.md)<sup>[C]</sup> | [C176 Business of IT - Project Management](C176.md)<sup>[C]</sup> | [C949 Data Structures and Algorithms I](C949.md) | [C950 Data Structures and Algorithms II](C950.md) |
  | [C961 Ethics in Technology](C961.md)<sup>[C]</sup> | [C836 Fundamentals of Information Security](C836.md)<sup>[C]</sup> | [C191 Operating Systems for Programmers](C191.md) | [C188 Software Engineering](C188.md)<sup>[C]</sup> |
- | [C846 Business of IT - Applications](C846.md)<sup>[C]</sup> | [D191 Advanced Data Management](D191.md)<sup>[N]</sup> | [D194 IT Leadership Foundations](D194.md)<sup>[N]</sup> | [C768 Technical Communication](C768.md)<sup>[C]</sup> |
+ | [C846 Business of IT - Applications](C846.md)<sup>[C]</sup> | [D191 Advanced Data Management](D191.md)<sup>[N]</sup><sup>[C]</sup> | [D194 IT Leadership Foundations](D194.md)<sup>[N]</sup> | [C768 Technical Communication](C768.md)<sup>[C]</sup> |
  | [C951 Introduction to Artificial Intelligence](C951.md)<sup>[C]</sup> | [C857 Software Quality Assurance](C857.md)<sup>[C]</sup> | [C964 Computer Science Capstone](C964.md) |
  
 
