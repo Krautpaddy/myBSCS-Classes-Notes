@@ -17,15 +17,16 @@ Obviously trying to figure out what resources will work for every kind of learne
 <br />
 
 ## What's Coming Next
-Hey everyone, it's been a while since the last update. I'm still working on updating all of the repo pages with new resources and writeups using [GitHub Flavored Markdown](https://github.github.com/gfm/). However, I've been a bit slower at this than I would've liked because I've been working on classes myself. I did make some additions you might enjoy. At the top I've added links to the new tips and book rec pages, as promised. While the book rec page continues to be updated, I hope my tips page proves helpful. I also haven't forgotten about the chatbot I promised, it is coming, just not immediately. 
+Hey everyone. It's been another long long stretch since the last update. I've completed a lot of courses since my last post and unfortunately with the Ucertify removal, a LOT of courses have been updated. I'm not going to update them all immediately, although I will in the coming months. I unfortunately don't have any information on a lot of the changes to the earlier courses. 
 
+And again, I've still got a lot of courses to update to [GitHub Flavored Markdown](https://github.github.com/gfm/). I'm working on it...like I said, I'll have more time for it in the next couple of months!
 
-So what's like next-next for this repo? In this order:
-- I'm going to be finishing the updating on the existing pages first.
-- Then I'm going to finish adding the remaining links to the book rec page.
-- Then I'm going to add onto this main page the other IT programs with their course lists and link the courses that are covered in this course to it.
-- Then I'm going to probably spend a lot of time researching the other degree programs and then add their pages in one big update.
-- And the chatbot with course recommendations. Although for data I'm going to need some volunteers to fill out a survey.
+In the meantime, here's some things I have planned for the repo in the future;
+
+- Remember the chatbot for recommending courses? If you could please [answer a survey on courses you've taken](https://www.reddit.com/r/WGU_CompSci/comments/mjzpr4/need_survey_responses_for_course_recommender/), it would give me more data to use for it!
+- The book rec page is a work in progress. There's lots of books out there, I've just been lazy.
+- I wrote out a placeholder for the other degree programs. I'm thinking of instead making it its own page and folder in the repo so the courses don't get mixed with the BSCS-ones. (Also to make it far easier to navigate!)
+- I have some ideas for more resources to add to the repo. Specifically, this will be a page or a couple pages of links to things I've found that are helpful for study/practice and career stuff. Coming in a following update!
 
 <br />
 
@@ -44,14 +45,14 @@ Below is a list of the classes in the BSCS program. Everything that's linked has
  | Classes In Repo |                 |                 |                 |
  | --------------- | --------------- | --------------- | --------------- |
  | [C182 Introduction to IT](C182.md) | [C955 Applied Probability and Statistics](C955.md) | [C779 Web Development Foundations](C779.md)<sup>[C]</sup> | [C255 Introduction to Geography](C255.md) |
- | [C172 Network and Security - Foundations](C172.md) | [C958 Calculus I](C958.md) | [C455 English Composition I](C455.md) | [C173 Scripting and Programming - Foundations](C173.md) |
+ | [C172 Network and Security - Foundations](C172.md)<sup>[C]</sup> | [C958 Calculus I](C958.md) | [C455 English Composition I](C455.md) | [C173 Scripting and Programming - Foundations](C173.md) |
  | [C165 Integrated Physical Sciences](C165.md) | [C959 Discrete Mathematics I](C959.md) | [C960 Discrete Mathematics II](C960.md) | [C683 Natural Science Lab](C683.md) |
- | [C464 Introduction to Communication](C464.md) | [C952 Computer Architecture](C952.md) | [C867 Scripting and Programming - Applications](C867.md) | [C175 Data Management - Foundations](C175.md) |
- | [C170 Data Management - Applications](C170.md) | [C963 American Politics and the US Constitution](C963.md) | [C100 Introduction to Humanities](C100.md) | [C482 Software I](C482.md) |
- | [C195 Software II - Advanced Java Concepts](C195.md) | [C176 Business of IT - Project Management](C176.md) | [C949 Data Structures and Algorithms I](C949.md) | [C950 Data Structures and Algorithms II](C950.md) |
- | [C961 Ethics in Technology](C961.md) | [C836 Fundamentals of Information Security](C836.md) | [C191 Operating Systems for Programmers](C191.md) | [C188 Software Engineering](C188.md) |
- | [C846 Business of IT - Applications](C846.md) | [D191 Advanced Data Management](D191.md)<sup>[N]</sup> | [D194 IT Leadership Foundations](D194.md)<sup>[N]</sup> | [C768 Technical Communication](C768.md) |
- | [C951 Introduction to Artificial Intelligence](C951.md) | [C857 Software Quality Assurance](C857.md) | [C964 Computer Science Capstone](C964.md) |
+ | [C464 Introduction to Communication](C464.md) | [C952 Computer Architecture](C952.md) | [C867 Scripting and Programming - Applications](C867.md)<sup>[C]</sup> | [C175 Data Management - Foundations](C175.md)<sup>[C]</sup> |
+ | [C170 Data Management - Applications](C170.md)<sup>[C]</sup> | [C963 American Politics and the US Constitution](C963.md) | [C100 Introduction to Humanities](C100.md) | [C482 Software I](C482.md) |
+ | [C195 Software II - Advanced Java Concepts](C195.md)<sup>[C]</sup> | [C176 Business of IT - Project Management](C176.md)<sup>[C]</sup> | [C949 Data Structures and Algorithms I](C949.md) | [C950 Data Structures and Algorithms II](C950.md) |
+ | [C961 Ethics in Technology](C961.md)<sup>[C]</sup> | [C836 Fundamentals of Information Security](C836.md)<sup>[C]</sup> | [C191 Operating Systems for Programmers](C191.md) | [C188 Software Engineering](C188.md)<sup>[C]</sup> |
+ | [C846 Business of IT - Applications](C846.md)<sup>[C]</sup> | [D191 Advanced Data Management](D191.md)<sup>[N]</sup> | [D194 IT Leadership Foundations](D194.md)<sup>[N]</sup> | [C768 Technical Communication](C768.md)<sup>[C]</sup> |
+ | [C951 Introduction to Artificial Intelligence](C951.md)<sup>[C]</sup> | [C857 Software Quality Assurance](C857.md)<sup>[C]</sup> | [C964 Computer Science Capstone](C964.md) |
  
 
 <sub>[C] - This symbol is to denote a course recently underwent a significant change, so the content on its readme may be slightly outdated in some areas. If you've taken it since the changes were implemented and would like to help us update the course page, please submit a pull request!</sub>
