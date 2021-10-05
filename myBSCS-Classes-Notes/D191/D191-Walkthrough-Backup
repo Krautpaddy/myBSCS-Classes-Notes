@@ -67,15 +67,10 @@ My best advice is to find a problem where using your aggregate function will sol
 
 If you're struggling to understand what a Business Problem is, [Chapter 9 of the SQL for Data Analytics book](https://lrps.wgu.edu/provision/262398022) (also linked on the course page in Readings) actually has an example of going through solving one with Postgre (however, you won't be using the shell for the PA). **Think of something that, using the information in the database, you could run the numbers on to help the business.**
 
-&#x200B;
 
-&#x200B;
-
-&#x200B;
 
 **PUTTING YOUR QUERIES TOGETHER:**
 
-&#x200B;
 
 REMEMBER: Write your drafted queries out on a text file and save them on your PC!
 
@@ -97,15 +92,10 @@ Now that you've got your queries drafted, make sure you have them in the correct
 
 Once the lab opens, click on Pgadmin, find the dvdrentals database and right click and select "Query Tool". To prepare for the next part, you're going to practice running through your code to make sure it works. NOTE: It seems the demonstration does not require you to call your Function, Trigger, or Stored Procedure, so just make sure they can be created successfully and leave it at that. When you've made any adjustments necessary, move onto the next part. 
 
-&#x200B;
 
-&#x200B;
-
-&#x200B;
 
 **RUNNING YOUR DEMONSTRATION:**
 
-&#x200B;
 
 Once you've ensured your code works, cancel out of the virtual lab and reload a new one. Get whatever you need to create your Panapoto recording ready and start recording. 
 
@@ -115,30 +105,19 @@ PLEASE NOTE, THERE IS NO "FOLDER XXX" TO SAVE YOUR PA VIDEO IN, SO SAVE IT IN AN
 
 For your recording, make sure the query window in the lab is visible and start running through your queries one by one (erase each after running). If you don't have a mic, use "-- (text)" to write line comments as you code. Take your time, there is no time limit since the 2hr timer will automatically give you more time in the lab. When you're finished, exit the lab and we'll move onto the last part.
 
-&#x200B;
-
-&#x200B;
-
-&#x200B;
 
 ## **WRITING YOUR PAPER:**
 
-&#x200B;
 
 For this final section, you're going to need to answer everything from Section A, plus F1 for good measure, in a word doc. There doesn't seem to be any minimum word count or length. I just used a numbered list and wrote whatever I needed to answer each question. 
 
 
 When you finish, I suggest saving all of your saved queries on the bottom of your doc. 
 
-&#x200B;
 
-&#x200B;
-
-&#x200B;
 
 **WRAPPING IT UP:**
 
-&#x200B;
 
 Now that your paper is written and hopefully proofread and your video demonstration is uploaded, submit your paper and a link to the Panopto video in the Submissions page and you should be "g-to-g". 
 
