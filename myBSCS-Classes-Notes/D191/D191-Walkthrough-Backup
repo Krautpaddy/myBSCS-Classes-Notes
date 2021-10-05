@@ -1,4 +1,4 @@
-#D191 Walkthough Backup
+# D191 Walkthough Backup
 
 This post is a backup of the walkthrough I posted on reddit in-case it's eventually deleted or somehow gets lost.
 
@@ -12,33 +12,24 @@ Let me get one thing out of the way ahead of time; this newly updated version is
 
 Moving on then...
 
-&#x200B;
-
 For this project you have to do the following;
 
 
 - Create a video of yourself going through a series of required queries in the virtual lab linked.
 - Write a paper answering all of the questions brought up in Section A of the  paper. (For safe measures I would copy your entire series of queries from the presentation and paste them at the end of your paper).
 
-&#x200B;
 
 Now to begin, skip directly to the PA page. Nothing in the course lessons is even remotely helpful.
 
-
 Read the PA description over, we're going to walk through it one at a time using links to the Postgre tutorial. For now, you'll want to go to the [Sample Database](https://www.postgresqltutorial.com/postgresql-sample-database/) link and grab the ERD for the dvdrentals database. This is the database that is used in the virtual lab 1:1. It's a very handy reference. 
-
 
 Next, open a blank txt file in Notepad (or whatever text editor you have). We're going to draft our queries here. 
 
-&#x200B;
 
-&#x200B;
-
-&#x200B;
 
 **UNDERSTANDING THE REQUIREMENTS:**
 
-&#x200B;
+
 
 Before we create our "business question", we're going to want to figure out what we actually need for queries. Because it's left VERY open-ended in the PA description but apparently not to the evaluators, you must use the following, unless specified:
 
@@ -48,7 +39,6 @@ Before we create our "business question", we're going to want to figure out what
 - [CREATE TRIGGER](https://www.postgresqltutorial.com/postgresql-triggers/)
 - [CREATE PROCEDURE](https://www.postgresqltutorial.com/postgresql-create-procedure/)
 
-&#x200B;
 
 You must also use have the following types of queries, but they don't seem to be as set in stone;
 
@@ -63,18 +53,14 @@ You must also use have the following types of queries, but they don't seem to be
 
 I've included links to Postgre's official(?) tutorial links for all of these functions. If you can figure out how to apply the examples to your business problem, you will pass. 
 
-&#x200B;
 
-&#x200B;
 
-&#x200B;
 
 **CREATING A BUSINESS PROBLEM:** 
 
-&#x200B;
+
 
 This will likely be the hardest part of your project. You're tasked with creating a "business problem" that the database can solve. Luckily you should've downloaded the database ERD, so you have an idea of what options you have. Also keep in mind that you must use 2 tables (1 field at least per table), an aggregate function, and a transformation function. So I recommend using these three requirements to build your problem.
-
 
 My best advice is to find a problem where using your aggregate function will solve your problem. Remember that the transformation function needs to be performed in your detailed table, so that field may not need to be in the summary table.
 
