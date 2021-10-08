@@ -4,7 +4,7 @@ A repository to store notes on classes from the Bachelors of Science degree prog
 - For my Tips on studying, getting into reading, and more, [click here](TipsPage.md). 
 - For my Book recommendations page, [click here](BookRecs.md). (NOTE: This is still under construction)
 
-***NOTE**: If you'd like to help out with the repo, please fork and submit a pull request. Please don't clone ands repost the entire repo like [this guy did](https://github.com/arancepete/WGU_BSCS). If you want to create a backup of it by forking or cloning it, that's fine, but please don't out-and-out steal it. At least not until I can finish it.*
+***NOTE**: If you'd like to help out with the repo, please fork and submit a pull request. Please don't clone and repost the entire repo like [this guy did](https://github.com/arancepete/WGU_BSCS). If you want to create a backup of it by forking or cloning it, that's fine, but please don't out-and-out steal it. At least not until I can finish it.*
 
 <br />
 
