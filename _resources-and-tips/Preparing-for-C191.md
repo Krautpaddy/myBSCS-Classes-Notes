@@ -1,5 +1,7 @@
 The following is my write-up of how best to prepare for C191 Operating Systems for Programmers. 
 
+<sub>**NOTE** : If you're using Visual Studio as your IDE for C you'll likely run into an error at compile time when trying to use the function `scanf()`. To fix this, you'll need to add `_CRT_SECURE_NO_WARNINGS` to the preprocessor definitions (In Project > Properties > C/C++), [this video](https://www.youtube.com/watch?v=lHfLLy1Ya5U) will show you how. </sub>
+
 --------
 
 Hey everyone,
