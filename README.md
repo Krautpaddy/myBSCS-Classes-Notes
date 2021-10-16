@@ -2,14 +2,9 @@
 
 A repository to store notes on classes from the Bachelors of Science degree program I'm currently enrolled in.
 
-In addition to course pages, I've also included a host of resources in the _resources-and-tips directory that includes;
-- [Book Recommendations](_resources-and-tips/book-recommendations.md) sorted by topic area for Computer Science students.
-- A [backup of the D191 PA walkthrough](_resources-and-tips/D191-walkthrough-backup.md) I originally posted onto the r/wgu_compsci subreddit.
-- [General Study Tips](_resources-and-tips/general-study-tips.md) and observations I've made about reading, focusing, and working on assessments at WGU.
-
 <br />
 
-***NOTE**: If you'd like to help out with the repo, please fork and submit a pull request. Please don't clone and repost the entire repo like [this guy did](https://github.com/arancepete/WGU_BSCS). If you want to create a personal backup of it by forking or cloning it, that's fine, but please don't out-and-out steal it.*
+***NOTE**: If you'd like to help out with the repo, please fork and submit a pull request. Please don't repost the entire repo like [this guy did](https://github.com/arancepete/WGU_BSCS). If you want to create a personal backup of it by forking or cloning it, that's fine, but please don't out-and-out steal it.*
 
 <br />
 
