@@ -8,41 +8,13 @@ A repository to store notes on classes from the Bachelors of Science degree prog
 
 <br />
 
-## Purpose
-I decided to create my own repo of notes and resources for the BS in CS program I'm in after seeing the [current one](https://github.com/WGU-BSCS/bscs-classes) from the WGU BSCS group was empty and I didn't recognize a lot of the course numbers from my BSCS program on it. I've been an avid follower of the school subreddits and have followed the posts on many courses for the last few years, saving links to many for future reference. One day (as in, last week), I decided that I needed to start taking my studies far more seriously so I decided to learn GitHub and create repositories for notes on the classes I was taking. Eventually, after seeing the WGU BSCS's empty repo I decided I would create something similar to keep track of all of the links I'd been saving. And that's about it. 
-
-Once I had a few readmes drafted up I decided to just turn it into a project to share with everyone else too. As it turns out, when you're taking a 100% online degree, pushing and pulling yourself through classes full of new concepts alone isn't super easy. A pretty big component of this university now is the amount of student-generated resources designed to help newer and struggling peers. So that's what this repo is. I'm hoping to compile all of the good stuff into a single place, organized in a way that no matter where you're at, you'll find something in here that'll get you past the finish line.
-
-<br />
-
-## How You Can Help
-Obviously trying to figure out what resources will work for every kind of learner for every course and managing the updates to courses is already a challenge. For courses I've transfered in (and therefore have no idea what is important to study) and [courses that have significantly changed since I took them](C779.md) I have to rely on the observations and opinions of others. However, if you've taken one of those courses or even if you've found something helpful for a course that I don't have in here, please feel free to fork this repo and submit a pull request. As long as it isn't something that could get this repo taken down or someone expelled (OA questions/answers, PA projects/papers, etc), you're good. Eventually I'll have a regular pull request guideline up...
-
-<br />
-
-## What's Coming Next
-Hey everyone. It's been another long long stretch since the last update. I've completed a lot of courses since my last post and unfortunately with the Ucertify removal, a LOT of courses have been updated. I'm not going to update them all immediately, although I will in the coming months. I unfortunately don't have any information on a lot of the changes to the earlier courses. 
-
-And again, I've still got a lot of courses to update to [GitHub Flavored Markdown](https://github.github.com/gfm/). I'm working on it...like I said, I'll have more time for it in the next couple of months!
-
-In the meantime, here's some things I have planned for the repo in the future;
-
-- Remember the chatbot for recommending courses? If you could please [answer a survey on courses you've taken](https://www.reddit.com/r/WGU_CompSci/comments/mjzpr4/need_survey_responses_for_course_recommender/), it would give me more data to use for it!
-- The book rec page is a work in progress. There's lots of books out there, I've just been lazy.
-- I wrote out a placeholder for the other degree programs. I'm thinking of instead making it its own page and folder in the repo so the courses don't get mixed with the BSCS-ones. (Also to make it far easier to navigate!)
-- I have some ideas for more resources to add to the repo. Specifically, this will be a page or a couple pages of links to things I've found that are helpful for study/practice and career stuff. Coming in a following update!
-
-<br />
-
 ---
 
 <br />
 
 
 ## Course Pages
-Below are three tables linking to the pages in the repo for every course in the BSCS program. It's seperated into three categories; general education, IT College courses, and courses unique to the Computer Science degree. If you're in a non-Computer Science IT College program, courses shared between your program and the BSCS will have a <sup>[ ]</sup> with a specific letter denoting it. Check the key at the bottom of the page to see what each letter stands for.
-
-To access the course pages, just click on the names below. Each page contains links to general information, write-ups from the community, resources for the class, and my own experience with it.
+Below are the course pages for each of the classes in the Computer Science program. Classes used in other IT College programs are denoted with a symbol next to them. See the key at the bottom of the page. 
 
 <br />
 
