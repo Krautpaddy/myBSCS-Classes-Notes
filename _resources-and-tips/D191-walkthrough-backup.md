@@ -1,16 +1,8 @@
 # D191 Walkthough Backup
 
-This post is a backup of the walkthrough I posted on reddit in-case it's eventually deleted or somehow gets lost.
+This post is a backup of the walkthrough I posted on reddit after D191 was turned into a PA course.
 
 ----
-
-Hey everyone, I wanted to wait until I passed to post this, but because of a technicality with creating my tables, my submission was rejected. Everything requiring tables was proficient, so I can, for the most part, vouch for the accuracy of this.
-
-Let me get one thing out of the way ahead of time; this newly updated version is a complete trainwreck in every way possible. I've never had issues with this school until I was stuck in D191.
-
-Moving on then...
-
-<br />
 
 For this project you have to do the following;
 
