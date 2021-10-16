@@ -1,14 +1,13 @@
 The following is my write-up of how best to prepare for C191 Operating Systems for Programmers. 
 
-<sub>**NOTE** : If you're using Visual Studio as your IDE for C you'll likely run into an error at compile time when trying to use the function `scanf()`. To fix this, you'll need to add `_CRT_SECURE_NO_WARNINGS` to the preprocessor definitions (In Project > Properties > C/C++), [this video](https://www.youtube.com/watch?v=lHfLLy1Ya5U) will show you how. </sub>
+<sub>**NOTE** : If you're using Visual Studio as your IDE for C you'll likely run into an error at compile time when trying to use the function `scanf()`. To fix this, you'll need to add `_CRT_SECURE_NO_WARNINGS` to the preprocessor definitions (In Project > Properties > C/C++) [this video](https://www.youtube.com/watch?v=lHfLLy1Ya5U) will show you how. </sub>
 
 --------
 
-Hey everyone,
 
-I notice a lot in this sub that students have difficulties with C191 Operating Systems for Programmers. And more so, I find most students seem to find it really boring and dry, which is a shame. I think part of the reason for this is because the program doesn't particularly prepare you for the topic or the text, Operating Systems Concepts (aka the Dinosaur Book). So to help combat this, I wanted to share some advice and a mini-study plan to help new and current students who haven't taken C191 prepare to enjoy this course. 
+I notice a lot in the r/WGU_CompSci sub that students have difficulties with C191 Operating Systems for Programmers. And more so, I find most students seem to find it really boring and dry, which is a shame. I think part of the reason for this is because the program doesn't particularly prepare you for the topic or the text, Operating Systems Concepts (aka the Dinosaur Book). So to help combat this, I wanted to share some advice and a mini-study plan to help new and current students who haven't taken C191 prepare to enjoy this course. 
 
-But before my plan, I'd like to recommend some courses to take before C191 and what to focus on from them to make the transition smoother;
+But before my plan, I'd like to recommend some prerequisites and what you should have learned from them:
 
 - **C949 Data Structures and Algorithms I:** You'll want to make sure you get a firm understanding of basic types of data structures like stacks, heaps, arrays, linked lists, etc., the concept of algorithms and how to use BigO Notation. Also, although the OA is language agnostic, the course textbook is in Python, which I recommend using to learn the language for C950 anyway.
 
