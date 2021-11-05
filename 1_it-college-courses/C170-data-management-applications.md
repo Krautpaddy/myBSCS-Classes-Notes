@@ -20,7 +20,7 @@
 <br />
 
 ##### Assessment Type: Exams
-This course uses an exam called an Objective Assessment. In order to complete the course, you need to pass two Objective Assessments, one 11 question live coding exam and another regular 63 question exam to prove competency in the following subjects which each account for a specified percentage of the total questions on the assessment:
+This course uses an exam called an Objective Assessment as well as a Performance Assessment. In order to complete the course, you need to pass both Assessments. For the Performance Assessment, you will be required to create and manipulate a database from scratch. For the Objective Assessment, you'll take a regular 58 question exam to prove competency in the following subjects which each account for a specified percentage of the total questions on the assessment:
 - Conceptual Models to Physical Schemas for 21% 
 - Create Databases for 14% 
 - Create/Modify Tables and Views for 19% 
